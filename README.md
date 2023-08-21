@@ -53,8 +53,10 @@
 
 ## Use To Code
 
+![PHP](https://img.shields.io/badge/PHP-8993be?style=for-the-badge&labelColor=black&logo=PHP&logoColor=8993be)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
+![Python](https://img.shields.io/badge/python-FFD43B?style=for-the-badge&labelColor=black&logo=python&logoColor=4B8BBE)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
