@@ -35,22 +35,6 @@
 </p>
 <br />
 
-<!-- About Section -->
- # About me
- 
-<p>
- <img align="right" width="350" src="/assets/programmer-1.gif" alt="Coding gif" />
-  
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: rivaldiir10@gmail.com<br/><br/>
-
-</p>
-
-<br/>
-<br/>
-<br/>
-
 ## Use To Code
 
 ![PHP](https://img.shields.io/badge/PHP-8993be?style=for-the-badge&labelColor=black&logo=PHP&logoColor=8993be)
