@@ -10,7 +10,7 @@ Hi there! 👋
 I'm **M. Rivaldi Irawan**, a **Backend Engineer** from **Indonesia** with 4+ years of experience designing and building high-performance, scalable backend systems. I specialize in backend technologies, API design, system architecture, and cloud infrastructure.
 
 - 🌍 **Location**: Bogor, Indonesia  
-- 🔧 **Core Skills**: Backend development with **Node.js**, **Go**, **Python**, **PHP**, API design (RESTful & GraphQL), database management (SQL & NoSQL), and cloud solutions (**AWS**, **Docker**).
+- 🔧 **Core Skills**: Backend development with **Node.js**, **Go**, **Python**, **PHP**, API design (RESTful & gRPC), database management (SQL & NoSQL), and cloud solutions (**AWS**, **Docker**).
 - 📈 **Experience**: Building efficient, secure systems and microservices with focus on scalability, performance, and maintainability.
 - 💼 **Currently Focusing On**: Strengthening my expertise in cloud architecture, DevOps practices, and contributing to impactful open-source projects.
 
